@@ -631,3 +631,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.11-01.50.21:019][302]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2019.04.11-01.50.21:019][302]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2019.04.11-01.50.21:019][302]SourceControl: Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2019.04.11-01.51.05:935][125]LogSlate: Window 'Source Control Login' being destroyed
+[2019.04.11-01.51.09:104][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.11-01.51.10:726][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.11-01.51.14:579][141]LogSlate: Window 'Source Control Login' being destroyed
+[2019.04.11-01.51.18:628][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
